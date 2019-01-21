@@ -1,0 +1,5 @@
+*.sw?
+*.html
+*~
+tcp-echod
+udp-server
